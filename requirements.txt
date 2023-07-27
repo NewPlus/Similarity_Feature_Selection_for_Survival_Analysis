@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+seaborn
+pytorch-lightning
+wandb
+cupy-cuda12x
