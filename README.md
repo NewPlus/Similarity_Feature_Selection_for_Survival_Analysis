@@ -71,5 +71,5 @@ python run.py \
 - Our method(Similarity Score) is the highest C_index Score.
 ![test_c_index](img/test_c_index.png)
 ![test_c_index_table](img/test_c_index_table.png)
-- Learning Curb
-![learning_curb](img/learning_curb.png)
+- Learning Curve
+![learning_Curve](img/learning_curve.png)
